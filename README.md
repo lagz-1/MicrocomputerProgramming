@@ -2,6 +2,7 @@
 
  **The project involves the code for my Microcomputer Systems and Interface Laboratory experiments, primarily using assembly language. Each experiment is divided into a fundamental experiment and some advanced experiments.** 
 
+***
 - ### Experiment 1
   
 Write a basic input-output program in assembly language to configure the 8255 chip. Set Port A as input and Port B as output. Achieve data transfer from the toggle switches to the data LEDs. The requirement is for the data LEDs to display data dynamically as the switches are toggled.
