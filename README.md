@@ -7,7 +7,7 @@
   
 Write a basic input-output program in assembly language to configure the 8255 chip. Set Port A as input and Port B as output. Achieve data transfer from the toggle switches to the data LEDs. The requirement is for the data LEDs to display data dynamically as the switches are toggled.
 
- - Extension
+ - Advanced
 
 (1) Enhance the basic experiment with the following functionality: If switches K7 to K0 are all in the high state, the program should exit.
 
