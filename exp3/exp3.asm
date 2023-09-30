@@ -56,6 +56,7 @@ NEXT:
         OUT 21H, AL             ;ICW4
  
         ; Initialize the slave 8259 PIC
+        ; In fact, it's not being used
         MOV AL, 11H             
         OUT 0A0H, AL            
         MOV AL, 30H             
